@@ -1,0 +1,8 @@
+{
+  "name": "Minor League Tracker",
+  "content_in_root": false,
+  "domain": "minorleaguetracker",
+  "documentation": "https://github.com/ArcReactorKC/MinorLeagueTracker",
+  "integration_type": "integration",
+  "country": "us"
+}
