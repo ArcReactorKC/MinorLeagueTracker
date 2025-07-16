@@ -2,9 +2,9 @@
   "domain": "minorleaguetracker",
   "name": "Minor League Tracker",
   "version": "1.0.0",
-  "documentation": "https://www.thesportsdb.com/",
-  "requirements": ["requests"],
-  "codeowners": ["ArcReactorKC"],
+  "documentation": "https://github.com/ArcReactorKC/MinorLeagueTracker",
+  "requirements": "none",
+  "codeowners": "ArcReactorKC",
   "iot_class": "cloud_polling",
   "config_flow": true
 }
