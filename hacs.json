@@ -1,7 +1,6 @@
 {
   "name": "Minor League Tracker",
   "content_in_root": false,
-  "domain": "minorleaguetracker",
   "integration_type": "integration",
   "country": "us"
   }
