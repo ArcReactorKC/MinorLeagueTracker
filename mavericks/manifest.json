@@ -1,0 +1,9 @@
+{
+  "domain": "mavericks",
+  "name": "Kansas City Mavericks",
+  "version": "1.0.0",
+  "documentation": "https://www.thesportsdb.com/",
+  "requirements": ["requests"],
+  "codeowners": ["@yourusername"],
+  "iot_class": "cloud_polling"
+}
