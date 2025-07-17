@@ -209,11 +209,13 @@ class MinorLeagueTeamSensor(Entity):
                 "last_game_league": last_game.get("strLeague"),
                 "last_game_season": last_game.get("strSeason"),
             })
-
+        
         # Standings
         standings = data.get("standings")
         if standings:
             attrs["standings"] = standings
+        # team thesportsdb.com ID number
+        attrs["team_id"] = self.coordinator.team_id
 
         return attrs
 
